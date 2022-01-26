@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color:red;
+    padding-bottom: 20px;
+}
+
+h2{
+    color: rgb(88, 199, 236);
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(1, 92, 104);
+    color:white;
+    font-size:15px;
+}
+
+
+
+.centerlogo{
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+}
+.size{
+    width:10px;
+}
+.move{
+   position:relative;
+   margin-bottom:5px;
+   float:right;
+   margin-right:50px;
+}
+
+.myspace{
+    border: solid lightgray 10px ;
+}
+.space{
+    margin-top:10px;
+    text-align: center;
+}
+
+.imgsize{
+    width:45%;
+}
+
+.newcolor{
+    background-color: black;
+    color:white;
+}
